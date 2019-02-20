@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Biblioteka gier.cpp
+  Cbiblioteka.cpp
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\cbiblioteka.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\cbiblioteka.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\cbiblioteka.cpp(51): warning C4018: '>=': signed/unsigned mismatch
+  Cgames.cpp
+  Menu.cpp
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\menu.cpp(106): warning C4018: '>=': signed/unsigned mismatch
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\menu.cpp(102): warning C4060: switch statement contains no 'case' or 'default' labels
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\menu.cpp(158): warning C4060: switch statement contains no 'case' or 'default' labels
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\menu.cpp(151): warning C4101: 'name': unreferenced local variable
+d:\strudia - inf po\sem ii\informatyka ii\biblioteka gier\biblioteka gier\biblioteka gier\menu.cpp(201): warning C4060: switch statement contains no 'case' or 'default' labels
+  Generating Code...
+  Biblioteka gier.vcxproj -> D:\STRUDIA - Inf PO\sem II\Informatyka II\Biblioteka gier\Biblioteka gier\Debug\Biblioteka gier.exe
